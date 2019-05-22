@@ -1,0 +1,21 @@
+# -*- coding: utf-8 -*-
+# 工程预装模块
+# 需要额外的python包，可直接在文件后面添加
+# 请确保指定的包和版本号，可通过pip安装
+
+# blueapps requirement
+Django==2.1.7
+PyMySQL==0.6.7
+MarkupSafe==1.0
+Mako==1.0.6
+requests==2.18.1
+celery==3.1.25
+django-celery==3.2.1
+python-json-logger==0.1.7
+whitenoise==3.3.0
+six==1.11.0
+
+#v2 requirement
+httplib2==0.9.1
+uWSGI==2.0.18
+
