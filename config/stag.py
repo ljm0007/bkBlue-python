@@ -18,12 +18,12 @@ RUN_MODE = 'STAGING'
 DATABASES.update(
     {
         'default': {
-            'ENGINE': 'django.db.backends.mysql',
-            'NAME': APP_CODE,  # 数据库名
-            'USER': 'root',  # 数据库用户
-            'PASSWORD': 'rootroot',  # 数据库密码
-            'HOST': 'paas.class.o.qcloud.com:80/t/autoljm-0',  # 数据库主机
-            'PORT': '3340',  # 数据库端口
+            'ENGINE': '',
+            'NAME': '',  # 数据库名
+            'USER': '',  # 数据库用户
+            'PASSWORD': '',  # 数据库密码
+            'HOST': '',  # 数据库主机
+            'PORT': '',  # 数据库端口
         },
     }
 )
