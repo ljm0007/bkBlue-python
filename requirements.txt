@@ -4,7 +4,7 @@
 # 请确保指定的包和版本号，可通过pip安装
 
 # blueapps requirement
-Django==2.1.7
+Django==2.2.10
 PyMySQL==0.6.7
 MarkupSafe==1.0
 Mako==1.0.6
